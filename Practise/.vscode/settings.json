@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "complex": "cpp",
+        "numeric": "cpp",
+        "cmath": "cpp"
+    }
+}

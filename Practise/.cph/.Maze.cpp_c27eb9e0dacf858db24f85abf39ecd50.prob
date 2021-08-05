@@ -1,0 +1,1 @@
+{"name":"Local: Maze","url":"f:\\Coding\\C++\\Practise\\Maze.cpp","tests":[{"id":1627278874822,"input":"3 3\nD R L\nU D R\nL U D","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\Maze.cpp","group":"local","local":true}
