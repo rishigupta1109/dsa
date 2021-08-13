@@ -82,6 +82,46 @@ else{
     child->next=next;
 }
 }
+void delete_at_head(node* &head){
+    node* temp=head;
+    node* target=head;
+    do{
+        temp=temp->next;
+    }
+    while(temp->next!=head);
+    head=head->next;
+    temp->next=head;
+    delete target;
+}
+void delete_at_tail(node* head){
+    node* target=head;
+    node* temp=head;
+    while(target->next!=head){
+        temp=target;
+        target=target->next;
+    }
+    temp->next=head;
+    delete target;
+}
+void delete_at_index(node* &head,int index){
+    if(index==0){
+        delete_at_head(head);
+    }
+    else if(index==(length(head)-1)){
+        delete_at_tail(head);
+    }
+    else{
+        int k=0;
+        node* temp =head;
+        while(k!=(index-1)){
+            temp=temp->next;
+            k++;
+        }
+        node* target=temp->next;
+        temp->next=target->next;
+        delete target;
+    }
+}
 
 int main(){
     node* head=NULL;
@@ -91,8 +131,13 @@ int main(){
     insert_at_tail(head,8);
     insert_at_tail(head,11);
     insert_at_head(head,0);
+
     print(head);
     insert_at_index(head,2,5);
     print(head);
-    cout<<length(head);
+    // cout<<length(head);
+    // delete_at_head(head);
+    // delete_at_tail(head);
+    delete_at_index(head,2);
+    print(head);
 }

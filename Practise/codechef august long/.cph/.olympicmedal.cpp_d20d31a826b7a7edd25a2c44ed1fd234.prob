@@ -1,0 +1,1 @@
+{"name":"Local: olympicmedal","url":"f:\\Coding\\C++\\Practise\\codechef august long\\olympicmedal.cpp","tests":[{"id":1628260791158,"input":"3\n10 20 30 0 29 30\n0 0 0 0 0 1\n1 1 1 0 0 0","output":"1\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\codechef august long\\olympicmedal.cpp","group":"local","local":true}

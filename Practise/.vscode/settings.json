@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "complex": "cpp",
         "numeric": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "ostream": "cpp"
     }
 }

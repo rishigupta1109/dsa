@@ -362,27 +362,60 @@ void merge_sorted_lists(node* &head1,node* &head2){
     head1=dummy->next;
     head2=dummy->next;
 }
+void seperate_odd_even_nodes(node* head){
+    node* odd_head=head;
+    node* even_head=head->next;
+    node* oddp=odd_head;
+    node* evenp=even_head;
+    while(true){
+        if(evenp->next==NULL){
+            oddp->next=even_head;
+            break;
+        }
+        else{
+             oddp->next=evenp->next;
+             oddp=oddp->next;
+        }
+        
+        if(oddp->next==NULL){
+            evenp->next=NULL;
+            oddp->next=even_head;
+            break;
+        }
+        else{
+             evenp->next=oddp->next;
+            evenp=evenp->next;
+        }
+          
+    }
+
+}
 int main(){
  node* head=NULL;
  insert_at_tail(head,1);
+ insert_at_tail(head,2);
  insert_at_tail(head,3);
+ insert_at_tail(head,4);
  insert_at_tail(head,5);
- insert_at_tail(head,7);
+ insert_at_tail(head,6);
+//  insert_at_tail(head,7);
+print_linked_list(head);
+seperate_odd_even_nodes(head);
+print_linked_list(head);
 // insert_at_head(head,22);
 // insert_at_head(head,26);
 
-node* head2=NULL;
- insert_at_tail(head2,2);
- insert_at_tail(head2,4);
- insert_at_tail(head2,6);
+// node* head2=NULL;
+//  insert_at_tail(head2,2);
+//  insert_at_tail(head2,4);
+//  insert_at_tail(head2,6);
 // insert_at_head(head2,37);
 // insert_at_head(head2,29);
 
-// print_linked_list(head2);
+// print_linked_list(head2); 
 // join_2_lists(head,head2,2);
-merge_sorted_lists(head,head2);
-print_linked_list(head);
-print_linked_list(head2);
+// merge_sorted_lists(head,head2);
+// print_linked_list(head2);
 // cout<<hasIntersection(head,head2);
 
 
