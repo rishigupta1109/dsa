@@ -1,0 +1,1 @@
+{"name":"Local: largesquare","url":"f:\\Coding\\C++\\Practise\\codechef starters 9\\largesquare.cpp","tests":[{"id":1629211861416,"input":"5\n3 2\n5 3\n16 18\n11 8\n8 6","output":"2\n6\n72\n24\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\codechef starters 9\\largesquare.cpp","group":"local","local":true}

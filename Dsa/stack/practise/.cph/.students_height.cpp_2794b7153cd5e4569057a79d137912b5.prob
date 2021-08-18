@@ -1,0 +1,1 @@
+{"name":"Local: students_height","url":"f:\\Coding\\C++\\Dsa\\stack\\practise\\students_height.cpp","tests":[{"id":1629110549423,"input":"1\n5\n1 2 1 2 1","output":"0 1 1 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Dsa\\stack\\practise\\students_height.cpp","group":"local","local":true}

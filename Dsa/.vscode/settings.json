@@ -3,6 +3,13 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "new": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "functional": "cpp",
+        "valarray": "cpp"
     }
 }
