@@ -1,1 +1,1 @@
- surfer=surfer->next;
+d.back()

@@ -1,0 +1,1 @@
+{"name":"Local: ObtainSum","url":"f:\\Coding\\C++\\Practise\\September Starters\\ObtainSum.cpp","tests":[{"id":1631716728038,"input":"8\n5 9\n5 10\n5 11\n5 12\n5 13\n5 14\n5 15\n5 16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\September Starters\\ObtainSum.cpp","group":"local","local":true}

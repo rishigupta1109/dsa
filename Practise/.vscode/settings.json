@@ -4,6 +4,7 @@
         "complex": "cpp",
         "numeric": "cpp",
         "cmath": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "map": "cpp"
     }
 }

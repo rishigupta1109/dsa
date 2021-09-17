@@ -1,0 +1,1 @@
+{"name":"Local: CrossingBlocks","url":"f:\\Coding\\C++\\Practise\\codechef august lunchtime\\CrossingBlocks.cpp","tests":[{"id":1630164917247,"input":"2\n5\n3 1 3 3 1\n2\n2 1","output":"-1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\codechef august lunchtime\\CrossingBlocks.cpp","group":"local","local":true}

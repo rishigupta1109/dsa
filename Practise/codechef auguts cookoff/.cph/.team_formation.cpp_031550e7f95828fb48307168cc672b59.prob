@@ -1,0 +1,1 @@
+{"name":"Local: team_formation","url":"f:\\Coding\\C++\\Practise\\codechef auguts cookoff\\team_formation.cpp","tests":[{"id":1629652478636,"input":"1\n11\n10110110101\n11001111011","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\codechef auguts cookoff\\team_formation.cpp","group":"local","local":true}

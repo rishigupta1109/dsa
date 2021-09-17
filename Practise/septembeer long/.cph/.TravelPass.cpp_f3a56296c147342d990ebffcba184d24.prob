@@ -1,0 +1,1 @@
+{"name":"Local: TravelPass","url":"f:\\Coding\\C++\\Practise\\septembeer long\\TravelPass.cpp","tests":[{"id":1630777754220,"input":"3\n2 1 2\n00\n2 1 1\n01\n4 2 1\n1101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\septembeer long\\TravelPass.cpp","group":"local","local":true}
