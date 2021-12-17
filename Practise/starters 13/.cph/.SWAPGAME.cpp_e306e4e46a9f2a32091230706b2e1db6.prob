@@ -1,0 +1,1 @@
+{"name":"Local: SWAPGAME","url":"f:\\Coding\\C++\\Practise\\starters 13\\SWAPGAME.cpp","tests":[{"id":1632659406932,"input":"3\n2\n1 2\n2 1\n3\n3 2 1\n1 2 3\n3\n1 2 3\n1 2 3","output":"-1\n4\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\starters 13\\SWAPGAME.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: FLIPCOMP","url":"f:\\Coding\\C++\\Practise\\novlongcc2021\\FLIPCOMP.cpp","tests":[{"id":1636707391646,"input":"3\n100011\n1110011\n000101110\n","output":"2\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\novlongcc2021\\FLIPCOMP.cpp","group":"local","local":true}

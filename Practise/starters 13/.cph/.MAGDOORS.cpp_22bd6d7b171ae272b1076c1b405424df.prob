@@ -1,0 +1,1 @@
+{"name":"Local: MAGDOORS","url":"f:\\Coding\\C++\\Practise\\starters 13\\MAGDOORS.cpp","tests":[{"id":1632654376802,"input":"3\n111\n010\n10011","output":"0\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\starters 13\\MAGDOORS.cpp","group":"local","local":true}

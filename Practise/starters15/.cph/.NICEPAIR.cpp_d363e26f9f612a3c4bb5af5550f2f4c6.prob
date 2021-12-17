@@ -1,0 +1,1 @@
+{"name":"Local: NICEPAIR","url":"f:\\Coding\\C++\\Practise\\starters15\\NICEPAIR.cpp","tests":[{"id":1634050260390,"input":"3\n3\n123\n5\n13492\n8\n94241234","output":"3\n2\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\starters15\\NICEPAIR.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Dogsandcats","url":"f:\\Coding\\C++\\Practise\\Kickstartoct\\Dogsandcats.cpp","tests":[{"id":1634386347652,"input":"2\n12 4 2 2\nCDCCCDCCDCDC\n8 2 1 3\nDCCCCCDC\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\C++\\Practise\\Kickstartoct\\Dogsandcats.cpp","group":"local","local":true}
